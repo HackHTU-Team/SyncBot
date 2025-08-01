@@ -1,0 +1,1 @@
+let n = new URL("http://2dadasd.")
